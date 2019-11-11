@@ -1,0 +1,10 @@
+name,type,description
+sex,string,"M, F, and I(infant)"
+length,float,Longest shell measurement (mm)
+diameter,float,Perpendicular to length (mm)
+height,float,With meat in chell (mm)
+whole_weight,float,Whole abalone (grams)
+shucked_weight,float,Weight of meat (grams)
+viscera_weight,float,Gut weight: after bleeding (grams)
+shell_weight,float,After being dried (grams)
+rings,integer,Predictor: continuous from 1-29 except 28
